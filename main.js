@@ -10,13 +10,13 @@ const newNum = 11;
 //3. create a boolean variable
 const newBool = true;
 
-//4. solve the following math problem
+//4
 const newSubtract = 10 - 5 === 5;
 
-//5. Solve the following math problem
+//5
 const newMultiply = 10 * 4 === 40;
 
-//6. Solve the following math problem:
+//6
 const newModulo = 21 % 5 === 1;
 
 // 7
